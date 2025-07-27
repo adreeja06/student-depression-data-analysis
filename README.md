@@ -58,4 +58,3 @@ To replicate this analysis, follow these steps:
 1.  **Database:** Execute the queries in `depression_analysis_queries.sql` on a SQL Server instance using the `Depression I Student - Dataset.csv` as the input table.
 2.  **Export Data:** The SQL script will produce the cleaned data. Export this as `updated_student_depression_data.csv`.
 3.  **Visualize:** Open the project's Tableau workbook (`.twbx` file) and connect it to the `updated_student_depression_data.csv` to interact with the dashboard.
-    *(Note: You may want to upload your Tableau workbook to the repository for others to access.)*
